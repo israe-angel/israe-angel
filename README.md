@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi there! I'm a passionate and curious learner diving deep into the world of tech. I enjoy building web experiences that are not only functional but also visually engaging. I'm especially interested in frontend development, design, and the intersection of creativity and code.
+I'm a Junior developer passionate and curious learner diving deep into the world of tech. I enjoy building web experiences that are not only functional but also visually engaging. I'm especially interested in frontend development, design, and the intersection of creativity and code.
 
 
 
