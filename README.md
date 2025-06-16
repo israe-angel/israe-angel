@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on building beautiful and responsive websites using **HTML, CSS, and JavaScript**.
-- 🌱 I’m currently learning **React** and **frontend best practices** to become a professional web developer.
+- 🌱 I’m currently learning **React**,**javaScript frameworks** and **frontend best practices** to become a professional web developer.
 - 👯 I’m looking to collaborate on **open-source frontend projects** or **web design initiatives**.
 - 🤔 I’m looking for help with **advanced JavaScript concepts and landing my first remote job**.
 - 💬 Ask me about **web development, design tools, or anything creative-tech related**.
