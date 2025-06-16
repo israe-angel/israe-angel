@@ -1,18 +1,19 @@
 ## Hi there 👋
 
 
-**israe-angel/israe-angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building beautiful and responsive websites using **HTML, CSS, and JavaScript**.
+- 🌱 I’m currently learning **React** and **frontend best practices** to become a professional web developer.
+- 👯 I’m looking to collaborate on **open-source frontend projects** or **web design initiatives**.
+- 🤔 I’m looking for help with **advanced JavaScript concepts and landing my first remote job**.
+- 💬 Ask me about **web development, design tools, or anything creative-tech related**.
+- 📫 How to reach me: israeboulaich2003@gmail.com
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I love mixing design and code — and I sometimes sketch website ideas before building them!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
+
+Hi there! I'm a passionate and curious learner diving deep into the world of tech. I enjoy building web experiences that are not only functional but also visually engaging. I'm especially interested in frontend development, design, and the intersection of creativity and code.
 
 
 
